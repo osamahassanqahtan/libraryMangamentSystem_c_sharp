@@ -1,0 +1,80 @@
+## =======================================
+## Visual Studio Git Ignore Template
+## For C#, Windows Forms, WPF, Console Apps
+## =======================================
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]emp/
+
+# Visual Studio folder
+.vs/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# Backup and reports
+*.bak
+*.cache
+*.pdb
+*.obj
+*.tlog
+*.lastbuildstate
+*.lastcodeanalysissucceeded
+
+# Executables and DLLs
+*.exe
+*.dll
+
+# Logs
+*.log
+
+# Publish output
+publish/
+out/
+Release/
+Debug/
+
+# Database files
+*.mdf
+*.ldf
+
+# Other temp files
+*.tmp
+*.temp
+*.zip
+*.rar
+
+# JetBrains Rider / ReSharper
+.idea/
+*.DotSettings.user
+
+# VS Code
+.vscode/
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# System files
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Git itself
+*.orig
+
+# Crash dumps
+*.stackdump
+*.dmp
